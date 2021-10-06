@@ -6,10 +6,10 @@
 * [タスク](task.md)
 * [DFGC投資運用基準](investment-policy.md)
 
-## コントリビュータ向け <a id="for-contributor"></a>
+## 広報部ライター向け <a id="for-writer"></a>
 
-* [事前準備](for-contributor/junbi.md)
-* [ブログ投稿手順](for-contributor/how-to-post-blog.md)
-* [FAQ追加手順](for-contributor/faq-zhui-jia-shou-shun.md)
-* [（番外編）mdでの追加手順](for-contributor/mddeno.md)
+* [事前準備](for-writer/junbi.md)
+* [ブログ投稿手順](for-writer/how-to-post-blog.md)
+* [FAQ追加手順](for-writer/faq-zhui-jia-shou-shun.md)
+* [（番外編）mdでの追加手順](for-writer/mddeno.md)
 
