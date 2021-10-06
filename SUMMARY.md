@@ -6,7 +6,7 @@
 * [タスク](task.md)
 * [DFGC投資運用基準](investment-policy.md)
 
-## 広報部ライター向け <a id="for-writer"></a>
+## ライター向け <a id="for-writer"></a>
 
 * [事前準備](for-writer/junbi.md)
 * [ブログ投稿手順](for-writer/how-to-post-blog.md)
