@@ -12,4 +12,5 @@
 * [ブログ投稿手順](for-writer/how-to-post-blog.md)
 * [FAQ追加手順](for-writer/faq-zhui-jia-shou-shun.md)
 * [（番外編）mdでの追加手順](for-writer/mddeno.md)
+* [検証用のサイト](for-writer/nosaito.md)
 
