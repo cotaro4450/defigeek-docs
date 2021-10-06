@@ -42,7 +42,7 @@ FAQの質問、回答とも、このヘッダー欄に記入します。枠が�
 
 保存したあと30秒ほどすると、プレビューサイトで自分が書いた記事を表示できます。
 
-🔗 [https://dfgc-preview.netlify.app/](https://dfgc-preview.netlify.app/)
+🔗 [https://dfgc-preview.netlify.app/faq](https://dfgc-preview.netlify.app/faq)
 
 
 
