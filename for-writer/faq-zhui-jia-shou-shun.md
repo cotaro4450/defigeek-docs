@@ -44,6 +44,8 @@ FAQの質問、回答とも、このヘッダー欄に記入します。枠が�
 
 🔗 [https://dfgc-preview.netlify.app/faq](https://dfgc-preview.netlify.app/faq)
 
+{% embed url="https://dfgc-preview.netlify.app/faq" %}
+
 
 
 ### 4. 本番サイトに適用

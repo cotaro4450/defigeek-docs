@@ -84,6 +84,8 @@ description: defigeek.xyzにオフィシャルニュース、財務レポート�
 
 🔗 [https://dfgc-preview.netlify.app/](https://dfgc-preview.netlify.app/)
 
+{% embed url="https://dfgc-preview.netlify.app/" %}
+
 
 
 ### 5. 本番サイトに適用
