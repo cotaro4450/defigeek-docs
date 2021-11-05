@@ -10,13 +10,11 @@ description: いろんなボタンを押すのを躊躇するのは正しい考�
 * プレビュー　[https://dfgc-proto.netlify.app](https://dfgc-proto.netlify.app)
 * Github　[https://github.com/haruketh/dfgc-proto5](https://github.com/haruketh/dfgc-proto5)
 
-📧 連絡はDiscordで　DFGC広報部（担当：paru）
+:e-mail: 連絡はDiscordで　DFGC広報部（担当：paru）
 
 {% hint style="info" %}
 サイトが壊れたときは教えてください。
 {% endhint %}
-
-
 
 
 

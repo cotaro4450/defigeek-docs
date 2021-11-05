@@ -12,7 +12,7 @@ description: defigeek.xyz　FAQページの項目を追加する
 
 Sectionsの中にある「FAQ」を選択します。
 
-![](../.gitbook/assets/how-to-post-faq_01.webp)
+![](../.gitbook/assets/how-to-post-faq\_01.webp)
 
 
 
@@ -22,7 +22,7 @@ Sectionsの中にある「FAQ」を選択します。
 
 ※ 既存の項目を編集するときは、その項目をクリックする。
 
-![](../.gitbook/assets/how-to-post-faq_02.webp)
+![](../.gitbook/assets/how-to-post-faq\_02.webp)
 
 
 
@@ -32,13 +32,13 @@ FAQの質問、回答とも、このヘッダー欄に記入します。枠が�
 
 右側のスペースには何も記載しないでください。
 
-![](../.gitbook/assets/how-to-post-faq_03.webp)
+![](../.gitbook/assets/how-to-post-faq\_03.webp)
 
 
 
 
 
-### 💡 プレビュー
+### :bulb: プレビュー
 
 保存したあと30秒ほどすると、プレビューサイトで自分が書いた記事を表示できます。
 
@@ -54,9 +54,7 @@ FAQの質問、回答とも、このヘッダー欄に記入します。枠が�
 
 1. ウェブ担当に依頼する
 2. Githubでプルリクエストする
-   1. 👉 [DeFiGeek Community landing-page](https://github.com/DeFiGeek-Community/landing-page/tree/preview)リポジトリ
+   1. :point\_right: [DeFiGeek Community landing-page](https://github.com/DeFiGeek-Community/landing-page/tree/preview)リポジトリ
 
-追い追いこの処理も自動化する予定です  🔜 
-
-
+追い追いこの処理も自動化する予定です  :soon:&#x20;
 

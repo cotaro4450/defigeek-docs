@@ -10,11 +10,11 @@ description: defigeek.xyzにオフィシャルニュース、財務レポート�
 
 サイドバーで「News」を選択した状態で、上段の「Create new」をクリック。
 
-![](../.gitbook/assets/how-to-post-blog_01.webp)
+![](../.gitbook/assets/how-to-post-blog\_01.webp)
 
 自分のテンプレートを選ぶ。
 
-![](../.gitbook/assets/how-to-post-blog_02a.webp)
+![](../.gitbook/assets/how-to-post-blog\_02a.webp)
 
 
 
@@ -22,7 +22,7 @@ description: defigeek.xyzにオフィシャルニュース、財務レポート�
 既存ドキュメントを複製して始めるときは、以下の「Duplicate」をクリックして作成することもできます。
 {% endhint %}
 
-![](../.gitbook/assets/how-to-post-blog_02b.webp)
+![](../.gitbook/assets/how-to-post-blog\_02b.webp)
 
 
 
@@ -36,7 +36,7 @@ description: defigeek.xyzにオフィシャルニュース、財務レポート�
 * サムネイルは変えたければ画像挿入する。
 * 「SEO」をクリックして、緑色の「ADD EXTRA」をクリック
 
-![](../.gitbook/assets/how-to-post-blog_03.webp)
+![](../.gitbook/assets/how-to-post-blog\_03.webp)
 
 
 
@@ -44,7 +44,7 @@ description: defigeek.xyzにオフィシャルニュース、財務レポート�
 
 普通にブログを書く。
 
-#### 🖼 画像について
+#### :frame\_photo: 画像について
 
 画像を挿入するときは、以下の流れで画像が挿入されます。
 
@@ -53,13 +53,13 @@ description: defigeek.xyzにオフィシャルニュース、財務レポート�
 * 「OPEN」を押して
 * 画像をドラッグ＆ドロップする
 
-![](../.gitbook/assets/how-to-post-blog_04a.webp)
+![](../.gitbook/assets/how-to-post-blog\_04a.webp)
 
 {% hint style="info" %}
 画像は容量を軽くしたいため以下を確認してください。
 
 * JPG, PNGはwebp形式に変換してアップする
-  * 変換ツール　[Webブラウザ](https://cloudconvert.com/png-to-webp)　[Macアプリ](https://apps.apple.com/jp/app/webp-converter/id1522368690)　[Winアプリ](https://www.gigafree.net/tool/encode/xnconvert.html) 
+  * 変換ツール　[Webブラウザ](https://cloudconvert.com/png-to-webp)　[Macアプリ](https://apps.apple.com/jp/app/webp-converter/id1522368690)　[Winアプリ](https://www.gigafree.net/tool/encode/xnconvert.html)&#x20;
 * Excelのスクリーンショットは変換せずそのままアップする。圧縮すると文字が潰れるため。
 * 50k以下なら気にせずアップする
 {% endhint %}
@@ -74,15 +74,15 @@ description: defigeek.xyzにオフィシャルニュース、財務レポート�
 
 ファイル名を変えるには、「Save」した後に「Rename」でファイル名を入力します。
 
-![](../.gitbook/assets/how-to-post-blog_05.webp)
+![](../.gitbook/assets/how-to-post-blog\_05.webp)
 
 
 
-###  💡 プレビュー
+### &#x20;:bulb: プレビュー
 
 保存したあと30秒ほどすると、プレビューサイトで自分が書いた記事を表示できます。
 
-🔗 [https://dfgc-preview.netlify.app/](https://dfgc-preview.netlify.app/)
+🔗 [https://dfgc-preview.netlify.app/](https://dfgc-preview.netlify.app)
 
 {% embed url="https://dfgc-preview.netlify.app/" %}
 
@@ -94,9 +94,7 @@ description: defigeek.xyzにオフィシャルニュース、財務レポート�
 
 1. ウェブ担当に依頼する
 2. Githubでプルリクエストする
-   1. 👉 [DeFiGeek Community landing-pageリポジトリ](https://github.com/DeFiGeek-Community/landing-page/tree/preview)
+   1. :point\_right: [DeFiGeek Community landing-pageリポジトリ](https://github.com/DeFiGeek-Community/landing-page/tree/preview)
 
- 追い追いこの処理も自動化する予定です 🔜 
-
-
+&#x20;追い追いこの処理も自動化する予定です :soon:&#x20;
 
