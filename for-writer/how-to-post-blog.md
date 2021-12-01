@@ -6,6 +6,11 @@ description: defigeek.xyzにオフィシャルニュース、財務レポート�
 
 [Forestry](https://app.forestry.io/login)でアカウント登録して、ログインします。
 
+* アカウント登録については[事前準備](https://docs.defigeek.xyz/for-writer/junbi#2.-forestry)のページをご覧ください
+* ログインしたら「landing-page」を開きます
+
+![](../.gitbook/assets/how-to-post-blog-00.webp)
+
 ### 1. 新規作成
 
 サイドバーで「News」を選択した状態で、上段の「Create new」をクリック。
