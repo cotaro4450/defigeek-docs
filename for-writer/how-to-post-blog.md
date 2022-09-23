@@ -87,7 +87,7 @@ description: defigeek.xyzにオフィシャルニュース、財務レポート�
 
 保存したあと30秒ほどすると、プレビューサイトで自分が書いた記事を表示できます。
 
-🔗 [https://dfgc-preview.netlify.app/](https://dfgc-preview.netlify.app)
+🔗 [https://dfgc-preview.netlify.app/](https://dfgc-preview.netlify.app/)
 
 {% embed url="https://dfgc-preview.netlify.app/" %}
 
