@@ -13,17 +13,17 @@ description: 広報系アカウント運用の目的は、広報活動として�
 広報系アカウントは次の種別に分類して運営を行う。
 
 * DFGCトップアカウント
-  * https://twitter.com/defigeekjapan
+  * [https://twitter.com/defigeekjapan](https://twitter.com/defigeekjapan)
   * DFGC全般のツイートを行う
   * プロジェクトアカウントのツイートをリツイートする
   * プロジェクトアカウントがまだない案件についてツイートを行う
 * プロジェクトアカウント
   * DFGCコミュニティは、1コミュニティ1プロジェクトではなく、複数のプロジェクトを行っているのが特徴です。それぞれのプロジェクトが主体性を持っているので、それを発揮してもらうため。
-  * YamatoProtocol https://mobile.twitter.com/yamatoprotocol
+  * YamatoProtocol [https://mobile.twitter.com/yamatoprotocol](https://mobile.twitter.com/yamatoprotocol)
   * Yashiro Project アカウント開設準備中
 * グローバルアカウント
   * 位置付け: 海外プロジェクトとのコラボを円滑できるようにプレゼンスを行うため
-  * https://twitter.com/DeFiGeekJapanEN
+  * [https://twitter.com/DeFiGeekJapanEN](https://twitter.com/DeFiGeekJapanEN)
 
 ### SNS Operation Guideline
 
@@ -38,6 +38,8 @@ description: 広報系アカウント運用の目的は、広報活動として�
   * 個人のツイートはもちろん、原則ニュース記事を含めリツイートとイイネなどのリアクションも同様に行いません
   * お墨付きを与えたり特別扱いをしていたりと関係性を示唆する行為ととらえられることを避けたいためです
 * フォローも同上を理由にDFGC系アカウントのみ相互フォローし、それ以外は無しです
+
+
 
 &#x20;2\. 公式なコラボレーションは明示してもよい
 
