@@ -6,3 +6,4 @@
 * [行動規範](code-of-conduct.md)
 * [DFGC投資運用基準](investment-policy.md)
 * [DFGC Fuseプール](dfgc-fuse-pool.md)
+* [SNS運用ガイドライン](snsgaidorain.md)
