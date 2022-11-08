@@ -10,41 +10,49 @@ PCのウェブブラウザまたはスマートフォンのウォレットアプ
 
 {% embed url="https://app.rari.capital/fuse/pool/102" %}
 
-### 貸し出す
+## 貸し出す
 
 画面左のSupplyとあるエリアが貸し出す場所です。貸し出したいトークンをクリックします。
 
+<figure><img src=".gitbook/assets/dfgc-fuse-pool01.png" alt=""><figcaption></figcaption></figure>
+
 貸し出す数量を入力して**Confirm**をクリックします。ウォレットが起動するため、トランザクションを承認します。
 
+<figure><img src=".gitbook/assets/dfgc-fuse-pool02.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
-上記の貸出画面で、**Enable As Collateral**（担保として利用する）が初期状態でオンになっています。**Borrow Limit**に表示される金額相当まで他のトークンを借りることができます。
+上記の貸出画面で、**Enable As Collateral**（担保として利用する）が初期状態でになっています。**Borrow Lim**表示される金額相当まで他のトークンを借りることができます。
 {% endhint %}
 
-#### 引き出す場合は
+### 引き出す場合は
 
 貸し出したトークンを引き出したい時は、トークンを選択し、**Withdraw**のタブに切り替えて、引き出したい数量を入力して、**Confirm**をクリックします。
 
-### 借りる
+## 借りる
 
 画面右のBorrowとあるエリアが借りる場所です。借りたいトークンをクリックします。
 
+<figure><img src=".gitbook/assets/dfgc-fuse-pool03.png" alt=""><figcaption></figcaption></figure>
+
 借りる数量を入力して**Confirm**をクリックします。ウォレットが起動するため、トランザクションを承認します。
+
+<figure><img src=".gitbook/assets/dfgc-fuse-pool04.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 画面の右端にある**Liquidity**は、アセットごとの貸出可能な総額が表示されています。この金額を超えて借入をすることはできません。
 {% endhint %}
 
-#### 返済する場合は
+### 返済する場合は
 
 借りたトークンを返済したい時は、トークンを選択し、Repayのタブに切り替えて、返済する数量を入力して、Confirmをクリックします。
 
-### リワードを請求する
+## リワードを請求する
 
 画面右上の自身のウォレットアドレス部分をクリック後、**Claim Rewards**を押下することでリワードを請求できます。一部トークンの貸し出しにはインセンティブが設定されており、該当ユーザーへ毎ブロックごとにリワードが発生します。
 
 <figure><img src=".gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-### 💵 金利について
+## 💵 金利について
 
 プールへの貸出、借入には金利が発生します。プールへ貸出をした人は、貸し出した金額と金利を受け取ることができます。プールから借入をした人は、借りた金額と金利を支払う必要があります。
 
@@ -52,7 +60,7 @@ Supply側、Borrow側のそれぞれにある**APY/LTV**は、1年あたりの�
 
 金利はリアルタイムに計算され、Supply Blance、Borrow Balanceに表示されます。
 
-### （参考）ページの用語説明
+## （参考）ページの用語説明
 
 * **APY/LTV**（Supply側）： APYは貸出金利の年利（複利計算）、LTV（Loan to Value）はCollateral Factorや担保率と同じ意味で、トークンの時価評価に対して何％を担保として認めるかの割合を指す。（例えば1万ドルの預け入れ資産に対し、LTVが80％である場合、最大8000ドル分のトークンを借り入れる事ができます）
 * **APY/TVL**（Borrow側）： APYは借入金利の年利（複利計算）、TVL（Total Value Locked）は貸出総額を指す
@@ -60,7 +68,7 @@ Supply側、Borrow側のそれぞれにある**APY/LTV**は、1年あたりの�
 * **Collateral**： トークン毎に担保として利用するかどうかを選択できます。複数のトークンをCollateralとして許可すると許可した担保対象のトークン総額が清算の判定材料となります。LTVが0％のもの（USDT）をCollateralとする意味はありません。
 * **Liquidity**： 現在のプール全体での最大借入可能額（Deposit - Borrow）です。
 
-### ⚠️ 注意事項（清算リスク）
+## ⚠️ 注意事項（清算リスク）
 
 <mark style="color:red;">借入を行う場合、貸し出したトークンが清算されるリスクがあります。</mark>
 
