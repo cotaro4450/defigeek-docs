@@ -9,6 +9,7 @@
 * [SNS運用ガイドライン](snsgaidorain.md)
 * [報酬について](nitsuite/README.md)
   * [１、月次報酬](nitsuite/yue-ci-bao-chou/README.md)
+    * [クラスと活動係数](nitsuite/yue-ci-bao-chou/kurasuto.md)
     * [ロールとタブ（主スキルと従スキル）](nitsuite/yue-ci-bao-chou/rrutotabusukirutosukiru.md)
     * [申請、変更、合意のルール](nitsuite/yue-ci-bao-chou/norru.md)
   * [２、四半期報酬](nitsuite/si-ban-qi-bao-chou.md)
