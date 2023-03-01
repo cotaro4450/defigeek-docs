@@ -14,3 +14,6 @@
     * [申請、変更、合意のルール](nitsuite/to/norru.md)
   * [２、四半期報酬](nitsuite/si-ban-qi-bao-chou.md)
   * [３、スポット報酬](nitsuite/supotto.md)
+* [ソリディティハウスとの提携について](soriditihausutononitsuite/README.md)
+  * [講習助成金](soriditihausutononitsuite/jiang-xi-zhu-cheng-jin.md)
+  * [資本提携](soriditihausutononitsuite/zi-ben-ti-xie.md)
