@@ -4,23 +4,29 @@
 
 既存MDファイルを以下の場所よりコピー・リネーム後、内容を編集。
 
-LANDING-PAGE
-└content
- └blog
+LANDING-PAGE&#x20;
+
+&#x20;└content&#x20;
+
+&#x20;   └blog
+
+
 
 画像ファイルは以下へ格納。
 
-LANDING-PAGE
-└static
- └images
-  └blog
+LANDING-PAGE&#x20;
 
+&#x20; └static&#x20;
+
+&#x20;   └images&#x20;
+
+&#x20;     └blog
 
 ### ２. 保存
 
 MDファイルおよび画像ファイルを**Tina**ブランチへプッシュ。
 
-https://github.com/DeFiGeek-Community/landing-page/tree/tina
+[https://github.com/DeFiGeek-Community/landing-page/tree/tina](https://github.com/DeFiGeek-Community/landing-page/tree/tina)
 
 ### :bulb: プレビュー
 
@@ -33,6 +39,5 @@ https://github.com/DeFiGeek-Community/landing-page/tree/tina
 ### 5. 本番サイトに適用
 
 Githubでメインブランチへプルリクエストする。
-   * :point\_right: [DeFiGeek Community landing-pageリポジトリ](https://github.com/DeFiGeek-Community/landing-page/tree/main)
 
-
+* :point\_right: [DeFiGeek Community landing-pageリポジトリ](https://github.com/DeFiGeek-Community/landing-page/tree/main)

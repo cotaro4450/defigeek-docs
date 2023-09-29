@@ -12,7 +12,7 @@ tina等のブランチで記事が仕上がったら、mainブランチにマー
 
 #### 2. ブランチを Tina に切り替える
 
-<figure><img src="../.gitbook/assets/preview-merge1.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/スクリーンショット 2023-09-29 19.43.13 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 3. マージの前に確認
 
@@ -29,6 +29,3 @@ tina等のブランチで記事が仕上がったら、mainブランチにマー
 #### 5. マージする
 
 レビュアーがマージします。権限がある人はセルフでマージしてください。
-
-
-

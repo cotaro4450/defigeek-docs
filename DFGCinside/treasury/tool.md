@@ -6,16 +6,13 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
 
 ## 月次報酬承認方法
 
-
-
 1\. オーナー権限のあるdefigeek1@gmail.comでログインし報酬管理シートを開く\
 \
-報酬管理シートURL：[https://docs.google.com/spreadsheets/d/1fjsxEho3VlJldd8PpY3nQOkFTLaPbfxTtSnESOmD95I/](https://docs.google.com/spreadsheets/d/1fjsxEho3VlJldd8PpY3nQOkFTLaPbfxTtSnESOmD95I/)\
-
+報酬管理シートURL：[https://docs.google.com/spreadsheets/d/1fjsxEho3VlJldd8PpY3nQOkFTLaPbfxTtSnESOmD95I/](https://docs.google.com/spreadsheets/d/1fjsxEho3VlJldd8PpY3nQOkFTLaPbfxTtSnESOmD95I/)\\
 
 2\. Open中は右上にプログレスバーが表示されるため消えるまで待つ
 
-<figure><img src="../.gitbook/assets/payroll5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll5 (1).png" alt=""><figcaption></figcaption></figure>
 
 ３.「一覧」タブを開き、A1のセルで報告月を選択（8月支払い予定の7月分活動報酬なら「７」を選択）
 
@@ -37,15 +34,11 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
 
 ## 報酬トークン送信作成方法
 
-
-
 1. 月次報酬承認方法の１〜３同様にシートを開く　
 
 　⚠️プログレスバーは直近のトークン価格を取得している段階のため、必ず待つこと。
 
 2. CSVタブを開き、ファイル→ダウンロード→カンマ区切り形式(csv)を選択し、CSV形式でダウンロードする
-
-
 
 <figure><img src="../.gitbook/assets/payroll12.png" alt=""><figcaption></figcaption></figure>
 
@@ -55,13 +48,12 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
 
 3. Yabumiにアクセスし、safe.defigeek.ethで接続（Safeウォレットコネクトアプリ利用）、一括送信を選択。ページ下部にCSVファイル選択が出てくるので、先ほどダウンロードしたCSVを指定。
 
-&#x20; Yabumi URL：[https://www.yabumi.xyz/](https://www.yabumi.xyz/)\
-\
-
+Yabumi URL：[https://www.yabumi.xyz/](https://www.yabumi.xyz/)\
+\\
 
 <figure><img src="../.gitbook/assets/payroll-a.png" alt=""><figcaption><p>Yabumiでウォレットの接続、その他のウォレットを選択</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/payroll-b.png" alt=""><figcaption><p>ウォレットコネクトの接続情報をコピー</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll-b (1).png" alt=""><figcaption><p>ウォレットコネクトの接続情報をコピー</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/payroll-c.png" alt=""><figcaption><p>Safeを開き、appからwalletconnectを検索し開く</p></figcaption></figure>
 
@@ -75,9 +67,9 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
 
 ５. Yabumiの送信先、トークン、数量の一覧が出てくるため、内容を確認する。⚠️確認ボタンを押下する前に右下の歯車からPermit2の有効期限を設定すること。
 
-![](<../.gitbook/assets/payroll22.png>)
+![](../.gitbook/assets/payroll22.png)
 
-![](<../.gitbook/assets/payroll17.png>)
+![](../.gitbook/assets/payroll17.png)
 
 6. 最後に一括送信確認画面となるので、limit承認が必要な新トークンがある場合は各トークンの承認TX終了後に「送信」を押下、ない場合はそのまま最下部の「送信」を押下しPermit２署名・その後再度「送信」を押下し送信TXを作成する。\
    ⚠️SafeでのTXは最大合計3件：
@@ -87,7 +79,7 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
 
 <figure><img src="../.gitbook/assets/payroll18.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/payroll19.png>)
+![](../.gitbook/assets/payroll19.png)
 
 <figure><img src="../.gitbook/assets/payroll-e.png" alt=""><figcaption><p>承認中はこの画面を閉じないこと。必要署名が集まればこの画面は消える</p></figcaption></figure>
 
@@ -110,23 +102,23 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
 * 月次オペ報酬：　コラムUの報酬を変更(TXJP)
 * 四半期オペ報酬：　コラムWの報酬を変更(TXJP)
 
-![](<../.gitbook/assets/payroll2.png>)
+![](<../.gitbook/assets/payroll2 (1).png>)
 
 <figure><img src="../.gitbook/assets/payroll21.png" alt=""><figcaption></figcaption></figure>
 
 ## 利用プラットフォーム
 
-1️⃣ Discord Slash Command [https://github.com/take3315/discord-slash-command-dfgc](https://github.com/take3315/discord-slash-command-dfgc) \
+1️⃣ Discord Slash Command [https://github.com/take3315/discord-slash-command-dfgc](https://github.com/take3315/discord-slash-command-dfgc)\
 ・スラッシュコマンド/reportと/tokenchangeの発動・選択ウィンドウ・データ送信\
 \
 2️⃣ Google App Script [https://script.google.com/home/projects/1Z6Mp\_ZsPBdB7h6GgIw1C5Gr1YUrvCIifVxtoudAPRChtKJUwvt6TJYuC/edit](https://script.google.com/home/projects/1Z6Mp\_ZsPBdB7h6GgIw1C5Gr1YUrvCIifVxtoudAPRChtKJUwvt6TJYuC/edit)\
 ・1️⃣から送信されてきたデータをGoogle Sheetsへ保存\
 \
-3️⃣ Activity report data [https://docs.google.com/spreadsheets/d/19dG\_lpXsCCAEFgEY1mQWxSS5LJJtf5\_ofZ5jYSklxKg/](https://docs.google.com/spreadsheets/d/19dG\_lpXsCCAEFgEY1mQWxSS5LJJtf5\_ofZ5jYSklxKg/) \
+3️⃣ Activity report data [https://docs.google.com/spreadsheets/d/19dG\_lpXsCCAEFgEY1mQWxSS5LJJtf5\_ofZ5jYSklxKg/](https://docs.google.com/spreadsheets/d/19dG\_lpXsCCAEFgEY1mQWxSS5LJJtf5\_ofZ5jYSklxKg/)\
 ・活動係数報告一覧\
 \
 4️⃣ Token report data [https://docs.google.com/spreadsheets/d/1yeeA31Em5gOCRIoaZ4gAEU1jaktLf4q-kV-qZ\_z5mes/](https://docs.google.com/spreadsheets/d/1yeeA31Em5gOCRIoaZ4gAEU1jaktLf4q-kV-qZ\_z5mes/)\
-・トークン変更報告一覧 \
+・トークン変更報告一覧\
 \
-5️⃣ 報酬管理シート [https://docs.google.com/spreadsheets/d/1fjsxEho3VlJldd8PpY3nQOkFTLaPbfxTtSnESOmD95I/](https://docs.google.com/spreadsheets/d/1fjsxEho3VlJldd8PpY3nQOkFTLaPbfxTtSnESOmD95I/) \
+5️⃣ 報酬管理シート [https://docs.google.com/spreadsheets/d/1fjsxEho3VlJldd8PpY3nQOkFTLaPbfxTtSnESOmD95I/](https://docs.google.com/spreadsheets/d/1fjsxEho3VlJldd8PpY3nQOkFTLaPbfxTtSnESOmD95I/)\
 ・計算用ファイル。参照先3️⃣及び4️⃣
