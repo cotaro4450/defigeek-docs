@@ -15,19 +15,19 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
 
 2\. Open中は右上にプログレスバーが表示されるため消えるまで待つ
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll5.png" alt=""><figcaption></figcaption></figure>
 
 ３.「一覧」タブを開き、A1のセルで報告月を選択（8月支払い予定の7月分活動報酬なら「７」を選択）
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll7.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll8.png" alt=""><figcaption></figcaption></figure>
 
 4\. １行目のユーザー名から１０行目のタイトルまでをスクリーンショットを撮りDiscordの月次報酬会議へ数値の問題がないか確認の投稿をする。
 
 月次報酬会議 URL: [https://discord.com/channels/705052448418693180/1117063855642787850](https://discord.com/channels/705052448418693180/1117063855642787850)
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll10.png" alt=""><figcaption></figcaption></figure>
 
 ５. 問題がなければ同スクリーンショットとシートのURLを記載し月次報酬の合意としてsnapshot投票を投稿
 
@@ -47,11 +47,11 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
 
 
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll12.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll13.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll14.png" alt=""><figcaption></figcaption></figure>
 
 3. Yabumiにアクセスし、safe.defigeek.ethで接続（Safeウォレットコネクトアプリ利用）、一括送信を選択。ページ下部にCSVファイル選択が出てくるので、先ほどダウンロードしたCSVを指定。
 
@@ -59,25 +59,25 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
 \
 
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2023-08-27 午後8.11.22 (1).png" alt=""><figcaption><p>Yabumiでウォレットの接続、その他のウォレットを選択</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll-a.png" alt=""><figcaption><p>Yabumiでウォレットの接続、その他のウォレットを選択</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2023-08-27 午後8.11.33 (1).png" alt=""><figcaption><p>ウォレットコネクトの接続情報をコピー</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll-b.png" alt=""><figcaption><p>ウォレットコネクトの接続情報をコピー</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2023-08-27 午後8.12.13.png" alt=""><figcaption><p>Safeを開き、appからwalletconnectを検索し開く</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll-c.png" alt=""><figcaption><p>Safeを開き、appからwalletconnectを検索し開く</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2023-08-27 午後8.13.15.png" alt=""><figcaption><p>先ほどコピーした接続情報をペースト</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll-d.png" alt=""><figcaption><p>先ほどコピーした接続情報をペースト</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll15.png" alt=""><figcaption></figcaption></figure>
 
 ４. ファイル選択後（もしくはドロップ後）に送信ボタンが出てくるので押下
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll16.png" alt=""><figcaption></figcaption></figure>
 
 ５. Yabumiの送信先、トークン、数量の一覧が出てくるため、内容を確認する。⚠️確認ボタンを押下する前に右下の歯車からPermit2の有効期限を設定すること。
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/payroll22.png>)
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/payroll17.png>)
 
 6. 最後に一括送信確認画面となるので、limit承認が必要な新トークンがある場合は各トークンの承認TX終了後に「送信」を押下、ない場合はそのまま最下部の「送信」を押下しPermit２署名・その後再度「送信」を押下し送信TXを作成する。\
    ⚠️SafeでのTXは最大合計3件：
@@ -85,13 +85,13 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
    2. Permit2の署名（有効期限以内であれば不要）
    3. トークン送信のTX署名（Permit2の有効期限以内に要実行）
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll18.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/payroll19.png>)
 
-<figure><img src="../.gitbook/assets/スクリーンショット 2023-08-27 午後8.17.58.png" alt=""><figcaption><p>承認中はこの画面を閉じないこと。必要署名が集まればこの画面は消える</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll-e.png" alt=""><figcaption><p>承認中はこの画面を閉じないこと。必要署名が集まればこの画面は消える</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Permit2の署名が集まった場合、先ほどの画面の右上にこのメッセージが出ている</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll0.png" alt=""><figcaption><p>Permit2の署名が集まった場合、先ほどの画面の右上にこのメッセージが出ている</p></figcaption></figure>
 
 ## 各種報酬パラメーター変更方法
 
@@ -110,9 +110,9 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
 * 月次オペ報酬：　コラムUの報酬を変更(TXJP)
 * 四半期オペ報酬：　コラムWの報酬を変更(TXJP)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/payroll2.png>)
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll21.png" alt=""><figcaption></figcaption></figure>
 
 ## 利用プラットフォーム
 

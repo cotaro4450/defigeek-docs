@@ -22,7 +22,7 @@ Execute前の署名待ちのTXは、Transaction → QUEUE にあります。
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FYer9wYeWiRzWHX4llDJO%2Fuploads%2FjXtBV9h6cofvUFhbTLgt%2Fsafe-sign.png?alt=media&token=5b9f4354-31f0-48f9-886f-24788dbc8bde" %}
 
-⚠️ Execute（実行）はしないでください。実行したウォレットがガス代を払います。この実行をコミュニティウォレット (defigeek.eth) で行うことで、余計な経費精算をなくします。
+
 
 
 

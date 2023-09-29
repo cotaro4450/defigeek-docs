@@ -49,9 +49,10 @@
 
 ## 初回のみGithub連携
 
-1. Githubで空白ブランチを作成
-   * Github管理者に依頼してください。[#noburanchi](./#noburanchi "mention")
-2. Gitbookから1.で作成したブランチにSyncする
+1. Githubでmasterブランチを選択
+2. monorepo project directoryに ./english と入力することでenglishディレクトリが作成され英語版が格納される 
+3. GitbookからmasterブランチにSyncしenglishディレクトリにファイルを反映
+4. 以後githubで内容を更新してもgitbookで内容を更新しても相互に同期されます
 
 <figure><img src="../.gitbook/assets/gitbook-multi-lang4.webp" alt=""><figcaption></figcaption></figure>
 

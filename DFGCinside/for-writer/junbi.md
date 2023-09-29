@@ -4,26 +4,17 @@
 
 Githubアカウント作成で ID、パスワードを登録します。
 
-これは必須ではありませんが、オープンソースプロジェクトで利用するツールは、Githubアカウントでサインインできるサービスが多く、Githubアカウントだけ作っておくとログインが便利になります。
-
 {% embed url="https://github.com" %}
 
-### 2. Forestry
+### 2. マークダウンエディタ
 
-defigeek.xyz への記事投稿には、Forestryというウェブツールを使います。ウェブ担当からインバイトメールを送るので、ユーザ登録（サインアップ）してください。
+defigeek.xyz への記事投稿には、VSC等エディタで直接マークダウンファイルを作成・編集しGithubのtinaブランチ（[https://github.com/DeFiGeek-Community/landing-page/tree/tina](https://github.com/DeFiGeek-Community/landing-page/tree/tina)）へプッシュします。
 
-:warning: サインアップの際にいくつか質問が出てきます。すべて「Other」もしくは、「Other , Other, Hugo」を回答しておいてください。プロフィール作成のために回答必須になっています。
 
-{% hint style="info" %}
-* Githubアカウントでサインアップ、ログインできます。
-* 最大3名まで
-* mdをGithubに直接プッシュできる人であればForestryではなくGithubに参加してください。ウェブ担当からインバイトします。
-{% endhint %}
-
-### 3. Netlify（任意）
+### 3. Netlify
 
 Netlifyはプレビューをするサイトです。投稿した記事がどんな見栄えになるかをチェックするのに使います。記事をSaveすると、30秒後くらいにプレビューサイトに反映されます。
 
-* 最新を表示するのはこのURL（[https://dfgc-preview.netlify.app](https://dfgc-preview.netlify.app)）でチェックできるため、最新だけをチェックするだけならNetlifyアカウントは不要です。
+* 最新を表示するのはこのURL（[https://preview-dfgc.netlify.app/blog/](https://preview-dfgc.netlify.app/blog/)）でチェックできるため、最新だけをチェックするだけならNetlifyアカウントは不要です。
 * Netlifyアカウントを作ると、Netlifyサイトの中で、変更前と変更後や、パターン１とパターン２のように時間別のプレビューを見比べることができます。
 * Netlifyに参加したい方はウェブ担当まで連絡ください。
