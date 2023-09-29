@@ -8,7 +8,7 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
 
 1\. オーナー権限のあるdefigeek1@gmail.comでログインし報酬管理シートを開く\
 \
-報酬管理シートURL：[https://docs.google.com/spreadsheets/d/1fjsxEho3VlJldd8PpY3nQOkFTLaPbfxTtSnESOmD95I/](https://docs.google.com/spreadsheets/d/1fjsxEho3VlJldd8PpY3nQOkFTLaPbfxTtSnESOmD95I/)\\
+報酬管理シートURL：[https://docs.google.com/spreadsheets/d/1fjsxEho3VlJldd8PpY3nQOkFTLaPbfxTtSnESOmD95I/](https://docs.google.com/spreadsheets/d/1fjsxEho3VlJldd8PpY3nQOkFTLaPbfxTtSnESOmD95I/)
 
 2\. Open中は右上にプログレスバーが表示されるため消えるまで待つ
 
@@ -16,9 +16,9 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
 
 ３.「一覧」タブを開き、A1のセルで報告月を選択（8月支払い予定の7月分活動報酬なら「７」を選択）
 
-<figure><img src="../.gitbook/assets/payroll7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll7.png" alt="" width="249"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/payroll8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll8.png" alt="" width="259"><figcaption></figcaption></figure>
 
 4\. １行目のユーザー名から１０行目のタイトルまでをスクリーンショットを撮りDiscordの月次報酬会議へ数値の問題がないか確認の投稿をする。
 
@@ -44,46 +44,46 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
 
 <figure><img src="../.gitbook/assets/payroll13.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/payroll14.png" alt=""><figcaption></figcaption></figure>
-
 3. Yabumiにアクセスし、safe.defigeek.ethで接続（Safeウォレットコネクトアプリ利用）、一括送信を選択。ページ下部にCSVファイル選択が出てくるので、先ほどダウンロードしたCSVを指定。
 
 Yabumi URL：[https://www.yabumi.xyz/](https://www.yabumi.xyz/)\
-\\
 
-<figure><img src="../.gitbook/assets/payroll-a.png" alt=""><figcaption><p>Yabumiでウォレットの接続、その他のウォレットを選択</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/payroll-b (1).png" alt=""><figcaption><p>ウォレットコネクトの接続情報をコピー</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll-a.png" alt="" width="343"><figcaption><p>Yabumiでウォレットの接続、その他のウォレットを選択</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/payroll-c.png" alt=""><figcaption><p>Safeを開き、appからwalletconnectを検索し開く</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll-b (1).png" alt="" width="315"><figcaption><p>ウォレットコネクトの接続情報をコピー</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/payroll-d.png" alt=""><figcaption><p>先ほどコピーした接続情報をペースト</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll-c.png" alt="" width="375"><figcaption><p>Safeを開き、appからwalletconnectを検索し開く</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/payroll15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll-d.png" alt="" width="375"><figcaption><p>先ほどコピーした接続情報をペースト</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/payroll15.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ４. ファイル選択後（もしくはドロップ後）に送信ボタンが出てくるので押下
 
-<figure><img src="../.gitbook/assets/payroll16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll16.png" alt="" width="375"><figcaption></figcaption></figure>
 
-５. Yabumiの送信先、トークン、数量の一覧が出てくるため、内容を確認する。⚠️確認ボタンを押下する前に右下の歯車からPermit2の有効期限を設定すること。
+５. Yabumiの送信先、トークン、数量の一覧が出てくるため、内容を確認する。
+
+⚠️確認ボタンを押下する前にPermit2の有効期限を設定すること。署名が揃うまでの猶予として12時間程度設定するのが望ましい。
 
 ![](../.gitbook/assets/payroll22.png)
 
 ![](../.gitbook/assets/payroll17.png)
 
-6. 最後に一括送信確認画面となるので、limit承認が必要な新トークンがある場合は各トークンの承認TX終了後に「送信」を押下、ない場合はそのまま最下部の「送信」を押下しPermit２署名・その後再度「送信」を押下し送信TXを作成する。\
+6. 最後に一括送信確認画面となるので、limit承認が必要な新トークンがある場合は各トークンの承認TX終了後に「送信」を押下、ない場合はそのまま最下部の「送信」を押下しPermit２署名・その後**再度「送信」を押下**し送信TXを作成する。\
    ⚠️SafeでのTXは最大合計3件：
    1. トークンの承認TX(一度承認すれば次回以降不要)
    2. Permit2の署名（有効期限以内であれば不要）
    3. トークン送信のTX署名（Permit2の有効期限以内に要実行）
 
-<figure><img src="../.gitbook/assets/payroll18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll18.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ![](../.gitbook/assets/payroll19.png)
 
-<figure><img src="../.gitbook/assets/payroll-e.png" alt=""><figcaption><p>承認中はこの画面を閉じないこと。必要署名が集まればこの画面は消える</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll-e.png" alt="" width="375"><figcaption><p>承認中はこの画面を閉じないこと。必要署名が集まればこの画面は消える</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/payroll0.png" alt=""><figcaption><p>Permit2の署名が集まった場合、先ほどの画面の右上にこのメッセージが出ている</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payroll0.png" alt="" width="348"><figcaption><p>Permit2の署名が集まった場合、先ほどの画面の右上にこのメッセージが出ている</p></figcaption></figure>
 
 ## 各種報酬パラメーター変更方法
 
