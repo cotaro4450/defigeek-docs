@@ -6,17 +6,17 @@ description: Votium操作方法
 
 ## Votium リワード投入TX作成方法
 
-1\. Votiumを開きSafeウォレットを接続する\
+1\. Votiumを開きSafeウォレットを接続する。
   
 Votium URL：[https://votium.app/](https://votium.app/)
 
-2\. Deposit a new incentiveを選択する  
+2\. Deposit a new incentiveを選択する。
   
 <figure><img src="../.gitbook/assets/votium1.png" alt=""><figcaption></figcaption></figure>
 
-３\. 投入ラウンドを選択（通常月次で２ラウンド分）
+３\. 投入ラウンドを選択（通常月次で２ラウンド分投入する）。
   
-4\. 報酬トークンでTXJPを選択
+4\. 報酬トークンでTXJPを選択。
   
 5\. Bribe設定用プールを選択、プルダウンを選択しCJPYを入力することでWETH+CJPYプールが選択可能。選択後１ラウンド分のreward(現状は25TXJP)を入力。
   
