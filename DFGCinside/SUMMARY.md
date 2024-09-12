@@ -8,6 +8,7 @@
   * [署名者の選出（Safeオーナー）](treasury/treasury2.md)
   * [月次活動報告・報酬計算ツール](treasury/tool.md)
   * [Votium操作方法](treasury/votium.md)
+  * [Curve操作方法](treasury/curvefi.md)
 * [マルチシグ署名者向け](for-safe-owners/README.md)
   * [準備](for-safe-owners/junbi.md)
   * [TX作成と実行まで](for-safe-owners/tx-sign-exec.md)
