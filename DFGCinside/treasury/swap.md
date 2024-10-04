@@ -29,7 +29,7 @@ SafeのTXキューにはorderUidのみしか情報がない為、cowexplorerを�
 
 <figure><img src="../.gitbook/assets/swap3.png" alt=""><figcaption></figcaption></figure>
 
-2\. https://explorer.cow.fi/ で先ほどのorderUidを検索ボックスにペーストしEnterを押下。
+2\. [https://explorer.cow.fi/](https://explorer.cow.fi/) を開き、先ほどのorderUidを検索ボックスにペーストしEnterを押下。
 
 <figure><img src="../.gitbook/assets/swap4.png" alt=""><figcaption></figcaption></figure>
 
