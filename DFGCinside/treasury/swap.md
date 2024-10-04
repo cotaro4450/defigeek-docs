@@ -19,4 +19,20 @@ URL：[https://swap.cow.fi/](https://swap.cow.fi/)
 ある程度幅を持たせると即時実行される(ガス代・市場レートの変動分)ので最大約1%程度下のレートを入力すると良い（市場より下にlimitを入れてもcowのバッチオークションで最適レートで実行されるため）
   
 <figure><img src="../.gitbook/assets/swap2.png" alt=""><figcaption></figcaption></figure>
-  
+
+
+## マルチシグサイナーのTX確認方法
+
+SafeのTXキューにはorderUidのみしか情報がない為、cowexplorerを使って別途内容が正しいか検証する必要がある。
+
+1\. orderUidをクリップボードにコピー
+
+<figure><img src="../.gitbook/assets/swap3.png" alt=""><figcaption></figcaption></figure>
+
+2\. https://explorer.cow.fi/ で先ほどのorderUidを検索ボックスにペーストしEnterを押下。
+
+<figure><img src="../.gitbook/assets/swap4.png" alt=""><figcaption></figcaption></figure>
+
+3\. スワップの内容を確認。確認ポイントはTo(受け取りアドレスが自身のものになっているか)、Type(Fill or Killになっているか)、ExpirationDate(時限が適切か)、AmountとExchange Rate(量が合っているか)。
+
+<figure><img src="../.gitbook/assets/swap5.png" alt=""><figcaption></figcaption></figure>
