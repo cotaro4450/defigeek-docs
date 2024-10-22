@@ -8,7 +8,7 @@ description: >-
 
 ## 1. 基本アロケーション（基本配分）
 
-<table data-full-width="false"><thead><tr><th width="162" align="center">配分割合（%）</th><th width="289" align="center">配分名目</th><th align="center">備考</th></tr></thead><tbody><tr><td align="center">5%</td><td align="center">開発者報酬</td><td align="center">ー</td></tr><tr><td align="center">5%</td><td align="center">TXJP(DFGCガバナンストークン）ホルダーへの配分</td><td align="center">ー</td></tr><tr><td align="center">5%</td><td align="center">DEX LP用</td><td align="center"><p>1％　IAO</p><p>1％　Uniswap v3 対CJPYpool</p><p>1％　Uniswap v3 対TXJPpool</p><p>2％　Curve pool</p></td></tr><tr><td align="center">5%</td><td align="center"><p>コミュニティトレジャリー配分</p><p>（長期開発支援予算）</p></td><td align="center">defigeek.eth</td></tr><tr><td align="center">5%</td><td align="center">初期ユーザーへの配分</td><td align="center">ー</td></tr><tr><td align="center">10%</td><td align="center">CurveLP用リワード</td><td align="center">年次2％べスティング5年間</td></tr><tr><td align="center">10%</td><td align="center">フェーズ2投資家用</td><td align="center">クリフ2年、3年目</td></tr><tr><td align="center">55%</td><td align="center">Dapp長期ユーザーリワード</td><td align="center">初年度5.5% 年次10％逓減</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="162" align="center">配分割合（%）</th><th width="289" align="center">配分名目</th><th align="center">備考</th></tr></thead><tbody><tr><td align="center">5%</td><td align="center">開発者報酬</td><td align="center">ー</td></tr><tr><td align="center">5%</td><td align="center"><a href="https://defigeek.xyz/txjp/">TXJP</a>(DFGCガバナンストークン）ホルダーへの配分</td><td align="center">ー</td></tr><tr><td align="center">5%</td><td align="center">DEX LP用</td><td align="center"><p>1％　IAO</p><p>1％　Uniswap v3 対CJPYpool</p><p>1％　Uniswap v3 対TXJPpool</p><p>2％　Curve pool</p></td></tr><tr><td align="center">5%</td><td align="center"><p>コミュニティトレジャリー配分</p><p>（長期開発支援予算）</p></td><td align="center">defigeek.eth</td></tr><tr><td align="center">5%</td><td align="center">初期ユーザーへの配分</td><td align="center">ー</td></tr><tr><td align="center">10%</td><td align="center">CurveLP用リワード</td><td align="center">年次2％べスティング5年間</td></tr><tr><td align="center">10%</td><td align="center">フェーズ2投資家用</td><td align="center">クリフ2年、3年目</td></tr><tr><td align="center">55%</td><td align="center">Dapp長期ユーザーリワード</td><td align="center">初年度5.5% 年次10％逓減</td></tr></tbody></table>
 
 ## 2.基本仕様
 
@@ -78,7 +78,7 @@ DFGCでは、IAOプラットフォーム「Yamawake」を開発・ローンチ�
 {% endstep %}
 
 {% step %}
-### TXJP(DFGCガバナンストークン）ホルダーへの配分（総量の5%）
+### [TXJP](https://defigeek.xyz/txjp/)(DFGCガバナンストークン）ホルダーへの配分（総量の5%）
 
 DFGCが開発するマークルディストリビューターツール「Megumi（2024Q4メインネット稼働予定）」を使って配布予定。
 
