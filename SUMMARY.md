@@ -17,3 +17,4 @@
 * [ソリディティハウスとの提携について](soriditihausutononitsuite/README.md)
   * [講習助成金](soriditihausutononitsuite/jiang-xi-zhu-cheng-jin.md)
   * [資本提携](soriditihausutononitsuite/zi-ben-ti-xie.md)
+* [DFGC トークンローンチスタンダード ver1](dfgc-tkunrnchisutanddo-ver1.md)
