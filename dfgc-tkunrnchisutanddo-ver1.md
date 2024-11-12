@@ -68,6 +68,24 @@ DFGCでは、IAOプラットフォーム「Yamawake」を開発・ローンチ�
 {% endstep %}
 
 {% step %}
+### [punodwoɔ](https://pnd.defigeek.xyz/)での担保化
+
+循環供給量の1～5〜10％をサプライキャップ目安に担保化を行います。時価総額が大きいほど1％になり、時価総額が小さいほど10％になります。
+
+IAO後のDEX流動性設置と稼働実績を以ってオラクル取得次第、担保化を実行します。
+
+{% hint style="info" %}
+[**punodwoɔ**](https://pnd.defigeek.xyz/)**とは**
+
+管理者（第三者）を介さずユーザー同士で貸し借りができるDFGCが開発したプロトコルです。
+
+ユーザーは、担保資産をプールに預け入れることで、ベース資産を借り入れることが出来、ベース資産を預け入れることで利息を得ることが可能です。
+
+※[punodwoɔ公式ドキュメント](https://app.gitbook.com/o/-MhI8qrzXbwrsBM7wCuy/c/3sR7g0lYDp1Mdk4aM1Oj)
+{% endhint %}
+{% endstep %}
+
+{% step %}
 ### 開発者報酬配布（総量の5％）
 {% endstep %}
 
@@ -95,22 +113,6 @@ DFGCが開発するマークルディストリビューターツール「Megumi�
 
 {% step %}
 ### DFGCコミュニティチャット（[Discord](https://discord.gg/FQYXqVBEnh)）にてprice info botを設置
-{% endstep %}
-
-{% step %}
-### [punodwoɔ](https://pnd.defigeek.xyz/)での担保化
-
-循環供給量の1～5〜10％をサプライキャップ目安に担保化を行います。時価総額が大きいほど1％になり、時価総額が小さいほど10％になります。
-
-{% hint style="info" %}
-[**punodwoɔ**](https://pnd.defigeek.xyz/)**とは**
-
-管理者（第三者）を介さずユーザー同士で貸し借りができるDFGCが開発したプロトコルです。
-
-ユーザーは、担保資産をプールに預け入れることで、ベース資産を借り入れることが出来、ベース資産を預け入れることで利息を得ることが可能です。
-
-※[punodwoɔ公式ドキュメント](https://app.gitbook.com/o/-MhI8qrzXbwrsBM7wCuy/c/3sR7g0lYDp1Mdk4aM1Oj)
-{% endhint %}
 {% endstep %}
 
 {% step %}
