@@ -8,7 +8,7 @@ description: >-
 
 ## 1. 基本アロケーション（基本配分）
 
-<table data-full-width="false"><thead><tr><th width="162" align="center">配分割合（%）</th><th width="289" align="center">配分名目</th><th align="center">備考</th></tr></thead><tbody><tr><td align="center">5%</td><td align="center">開発者報酬</td><td align="center">ー</td></tr><tr><td align="center">5%</td><td align="center"><a href="https://defigeek.xyz/txjp/">TXJP</a>(DFGCガバナンストークン）ホルダーへの配分</td><td align="center">ー</td></tr><tr><td align="center">5%</td><td align="center">DEX LP用</td><td align="center"><p>1％　IAO</p><p>1％　Uniswap v3 対CJPYpool</p><p>1％　Uniswap v3 対TXJPpool</p><p>2％　Curve pool</p></td></tr><tr><td align="center">5%</td><td align="center"><p>コミュニティトレジャリー配分</p><p>（長期開発支援予算）</p></td><td align="center">defigeek.eth</td></tr><tr><td align="center">5%</td><td align="center">初期ユーザーへの配分</td><td align="center">ー</td></tr><tr><td align="center">10%</td><td align="center">CurveLP用リワード</td><td align="center">年次2％べスティング5年間</td></tr><tr><td align="center">10%</td><td align="center">フェーズ2投資家用</td><td align="center">クリフ2年、3年目</td></tr><tr><td align="center">55%</td><td align="center">Dapp長期ユーザーリワード</td><td align="center">初年度5.5% 年次10％逓減</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="162" align="center">配分割合（%）</th><th width="289" align="center">配分名目</th><th align="center">備考</th></tr></thead><tbody><tr><td align="center">5%</td><td align="center">開発者報酬</td><td align="center">ー</td></tr><tr><td align="center">5%</td><td align="center"><a href="https://defigeek.xyz/txjp/">TXJP</a>(DFGCガバナンストークン）ホルダーへの配分</td><td align="center">ー</td></tr><tr><td align="center">5%</td><td align="center">DEX LP用</td><td align="center"><p>0.5％　IAO 初期流動性設置</p><p>0.5%　SAO 市場買上</p><p>1％　Uniswap v3 対CJPYpool</p><p>1％　Uniswap v3 対TXJPpool</p><p>2％　Curve pool</p></td></tr><tr><td align="center">5%</td><td align="center"><p>コミュニティトレジャリー配分</p><p>（長期開発支援予算）</p></td><td align="center">defigeek.eth</td></tr><tr><td align="center">5%</td><td align="center">初期ユーザーへの配分</td><td align="center">ー</td></tr><tr><td align="center">10%</td><td align="center">CurveLP用リワード</td><td align="center">年次2％べスティング5年間</td></tr><tr><td align="center">10%</td><td align="center">フェーズ2投資家用</td><td align="center">クリフ2年、3年目</td></tr><tr><td align="center">55%</td><td align="center">Dapp長期ユーザーリワード</td><td align="center">初年度5.5% 年次10％逓減</td></tr></tbody></table>
 
 ## 2.基本仕様
 
@@ -42,7 +42,7 @@ Tokenを長期間預けることで、より大きな権限と報酬を得られ
 {% endstep %}
 
 {% step %}
-### IAOの実施（総量の1%）
+### IAOの実施（総量の0.5%）
 
 DFGC開発DappであるIAOプラットフォーム「[Yamawake](https://yamawake.xyz/)」にて実施。
 
@@ -119,6 +119,24 @@ DFGCが開発するマークルディストリビューターツール「Megumi�
 ### トークンリスティング（[CoinGecko](https://www.coingecko.com/ja)等）
 
 CoinGecko等のTokenの市場データ情報プラットフォームにリスティング依頼を行います。
+{% endstep %}
+
+{% step %}
+### SAOの実施（総量の0.5%）
+
+IAOと同様にDFGC開発DappであるIAOプラットフォーム「[Yamawake](https://yamawake.xyz/)」にて実施。
+
+※[Yamawake公式ドキュメント](https://docs.yamawake.xyz/)
+
+{% hint style="info" %}
+**SAO（Second Auction Offering）とは**
+
+SAOは、IAO（Initial Auction Offering）の次に行われるオークション形式の資金調達方式です。
+
+DFGCでは、IAOと同様にDFGC開発DappであるIAOプラットフォーム「[Yamawake](https://yamawake.xyz/)」にて実施します。
+{% endhint %}
+
+
 {% endstep %}
 
 {% step %}
