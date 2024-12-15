@@ -28,6 +28,8 @@ description: 月次活動係数の報告ツール、月次報酬の計算ツー�
 
 ５. 問題がなければ同スクリーンショットとシートのURLを記載し月次報酬の合意としてsnapshot投票を投稿
 
+⚠️投票期間は第3日曜日～次週木曜午後6時に設定
+
 スナップショット投票サンプル：[https://snapshot.org/#/defigeek.eth/proposal/0xcb5ec472af2691af6a719f0ae121c5baa1e2b8bcdae991e825e99721022668b4](https://snapshot.org/#/defigeek.eth/proposal/0xcb5ec472af2691af6a719f0ae121c5baa1e2b8bcdae991e825e99721022668b4)
 
 ##
